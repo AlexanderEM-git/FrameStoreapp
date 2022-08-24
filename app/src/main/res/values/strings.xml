@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FrameStoreapp</string>
+    <string name="title_home">Home</string>
+    <string name="title_list">Favoritos</string>
+    <string name="title_login">Inicio</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_shop">Comprar</string>
+    <string name="title_singup">Registro</string>
+    <string name="title_splash">Splash</string>
+    <string name="title_userdata">Usuario</string>
+
+    <string name="text_home">Esta es la parte del home</string>
+    <string name="text_list">En esta parte estara la lista de favoritos</string>
+    <string name="text_search">Barra de busqueda con resultados</string>
+    <string name="text_shop">Zona de compras de prendas selecionadas</string>
+    <string name="text_userdata">Donde vemos los Datos del Usuario</string>
+
+    <string name="email">Correo electronico</string>
+    <string name="signup">Registrate</string>
+    <string name="password">Contrasena</string>
+    <string name="logIn">Iniciar Sesion</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Telefono</string>
+    <string name="rep_password">Repita contrasena</string>
+
+    <!--plantilla para los comabios en los idiomas, %s son en strings, %d enteros-->
+    <string name="info">Nombre: %s\n Email: %s\n  Contrasena: %s</string>
+
+</resources>

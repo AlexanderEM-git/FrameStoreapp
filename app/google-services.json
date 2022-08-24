@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630706145703",
+    "project_id": "framestoreapp",
+    "storage_bucket": "framestoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630706145703:android:93cdee947e99ea00604e82",
+        "android_client_info": {
+          "package_name": "com.alexapps.framestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630706145703-fomp81eb2e2k1mkpij3ohloe5152mbci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC-cFzP5rRVMImYdZFvWJ2dnoexzsRieY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630706145703-fomp81eb2e2k1mkpij3ohloe5152mbci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
